@@ -1,0 +1,5 @@
+/home/sima/Lab2/miniscience-4th-term/2022/02_vtk/cpp/CMakeFiles/cubic2d.dir
+/home/sima/Lab2/miniscience-4th-term/2022/02_vtk/cpp/CMakeFiles/cubic3d.dir
+/home/sima/Lab2/miniscience-4th-term/2022/02_vtk/cpp/CMakeFiles/tetr3d.dir
+/home/sima/Lab2/miniscience-4th-term/2022/02_vtk/cpp/CMakeFiles/edit_cache.dir
+/home/sima/Lab2/miniscience-4th-term/2022/02_vtk/cpp/CMakeFiles/rebuild_cache.dir
